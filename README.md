@@ -1,10 +1,10 @@
 dependencies for project:
 
-- cmake
-- dlib
-- face-recognition
-- numpy
-- opencv-python
+- **cmake**  3.22.1
+- **dlib**  19.22.1
+- **face-recognition**  1.3.0  
+- **opencv-python** 4.5.3.56
+- **numpy**  1.21.2
 
 The project uses a pre recorded video to detect faces and mark attendance.
 In real life scenario, the attendance will be marked in real-time using a webcam.
